@@ -45,9 +45,9 @@ I am a passionate full-stack developer, with a preference for front-end technolo
 
 ## Software
 
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" width="36" height="36" alt="Insomnia" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Antu_mysql-workbench.svg" width="36" height="36" alt="MySQL Workbench" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Antu_mysql-workbench.svg" width="36" height="36" alt="MySQL Workbench" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 
 ## Other
 
