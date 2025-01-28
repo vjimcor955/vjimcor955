@@ -8,7 +8,7 @@ I am a passionate full-stack developer, with a preference for front-end technolo
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [victorjc2002cadiz@gmail.com](mailto:victorjc2002cadiz@gmail.com)
-* 🧠  I'm learning AI and Big Data
+* 🧠  I'm learning Cybersecurity in IT environments.
 
 ### Skills
 
