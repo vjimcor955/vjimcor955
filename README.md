@@ -1,14 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Víctor Jiménez Corada
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Víctor Jiménez Corada
 =============================================================================================================================================
 
-Senior Technician in Web Applications Development
--------------------------------------------------
+Cybersecurity Specialist and Web Application Developer
+-------------------------------------------------------
 
-I am a passionate full-stack developer, with a preference for front-end technologies. I have a Bachelor of Technology and a Technical Degree in Web Application Development, which has given me a solid background in both areas. My experience includes an Erasmus exchange, during which I worked at the IT Center of the University of Cologne (ITCC), where I contributed to their technology initiatives, including my participation in the OpenCast project, by creating an external tool for developers. I have a Cambridge-certified C1 level of English, which allows me to be fluent in international environments. I am always willing to learn and collaborate in innovative projects.
+I am a passionate full-stack web developer with a preference for front-end and a cybersecurity specialist. This combination allows me to face projects while providing both user experience and system protection.
+
+During my international experience as part of the Erasmus program, I had the opportunity to work at the IT Center of the University of Cologne (ITCC). There I had the opportunity to be part of the OpenCast project by developing an external tool to facilitate the work of other developers.
+
+I have a C1 level of English certified by Cambridge, which allows me to be fluent in all kinds of fields and to collaborate efficiently in international teams.
+
+I am motivated to be constantly learning in order to bring value and creativity to each project. I enjoy working in dynamic teams and facing technological challenges that foster innovation.
 
 * 🌍  I'm based in Spain
-* ✉️  You can contact me at [victorjc2002cadiz@gmail.com](mailto:victorjc2002cadiz@gmail.com)
-* 🧠  I'm learning Cybersecurity in IT environments.
+* ✉️  You can contact me at [victor.jimenezcorada@gmail.com](mailto:victor.jimenezcorada@gmail.com)
 
 ### Skills
 
