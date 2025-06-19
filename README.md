@@ -24,7 +24,8 @@ I am motivated to be constantly learning in order to bring value and creativity 
 
 ### Skills
 
-<p align="left">  
+<p align="left">
+
 ## Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
