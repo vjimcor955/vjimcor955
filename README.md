@@ -22,6 +22,27 @@ I am enthusiastic about keeping up to date with the latest technologies and enjo
 ### Skills
 
 <p align="left">
+  
+[//]: # (<a href="LINK" target="_blank" rel="noreferrer"><img src="ICONO" width="36" height="36" alt="NOMBRE" /></a>)
+
+## Cybersecurity
+
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/devicon/kalilinux-wordmark.svg" width="36" height="36" alt="Kali Linux" /></a>
+<a href="https://es-la.tenable.com/products/nessus" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/file-icons/nessus.svg" width="36" height="36" alt="Nessus" /></a>
+<a href="https://metasploit.com/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/simple-icons/metasploit.svg" width="36" height="36" alt="Metasploit" /></a>
+<a href="https://www.elastic.co/es/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/vscode-icons/file-type-elastic.svg" width="36" height="36" alt="Elastic" /></a>
+<a href="https://www.elastic.co/es/kibana" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/logos/kibana.svg" width="36" height="36" alt="Kibana" /></a>
+<a href="https://www.elastic.co/es/logstash" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/logos/logstash.svg" width="36" height="36" alt="Logstash" /></a>
+<a href="https://www.elastic.co/beats" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/logos/beats.svg" width="36" height="36" alt="Beats" /></a>
+<a href="https://snort.org/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/simple-icons/snort.svg" width="36" height="36" alt="Snort" /></a>
+<a href="https://www.elastic.co/es/beats/filebeat" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/oui/app-filebeat.svg" width="36" height="36" alt="Filebeat" /></a>
+<a href="https://www.exterro.com/digital-forensics-software/ftk-imager" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/3555/3555359.png" width="36" height="36" alt="FTK Imager" /></a>
+<a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/866922" width="36" height="36" alt="Autopsy" /></a>
+<a href="https://volatilityfoundation.org/" target="_blank" rel="noreferrer"><img src="https://volatilityfoundation.org/wp-content/uploads/2023/11/IMG_6307.png" width="36" height="36" alt="Volatility" /></a>
+<a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/simple-icons/pfsense.svg" width="36" height="36" alt="pfSense" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://files.svgcdn.io/simple-icons/wireshark.svg" width="36" height="36" alt="Wireshark" /></a>
+<a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/QQ-nwykGXjE3iUj0maYCKYvJ2hCr7SDncjOQrj2W0LI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzEw/Y3EyOS9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl8yanEwb3V2ZzB2/eDgxLnBuZw" width="36" height="36" alt="Wazuh" /></a>
+<a href="https://www.bacula.org/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/IFQ78k68mvnRD_eAwSeJIVudRMxEINti5bYJDd4sXnM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hLmZz/ZG4uY29tL2FsbHVy/YS9wL2JhY3VsYS9p/Y29uPzE1MTM3NTc1/NzI_Jnc9OTA" width="36" height="36" alt="Bacula" /></a>
 
 ## Programming Languages
 
