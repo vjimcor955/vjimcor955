@@ -13,13 +13,10 @@ During my **international experience** in Cologne I had the opportunity to colla
 I am enthusiastic about keeping up to date with the latest technologies and enjoy working in teams that aim to overcome challenges and encourage innovation.
 
 * 🌍  I'm based in Spain
-* ✉️  You can contact me at victor.jimenezcorada@gmail.com
+* 📩  You can contact me at victor.jimenezcorada@gmail.com
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:victor.jimenezcorada@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v%C3%ADctor-jim%C3%A9nez-corada-4b081a23b/" alt="LinkedIn"/></a>
+  <a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v%C3%ADctor-jim%C3%A9nez-corada-4b081a23b/" alt="LinkedIn"/></a>
 </p>
 
 ### Skills
