@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Víctor Jiménez Corada
+Víctor Jiménez Corada
 =============================================================================================================================================
 
 Cybersecurity Specialist and Web Application Developer
 -------------------------------------------------------
 
-I am a passionate full-stack web developer with a preference for front-end and a cybersecurity specialist. This combination allows me to face projects while providing both user experience and system protection.
+I am a **full-stack web developer** and **cybersecurity specialist**. This combination allows me to face projects ensuring both the user experience and the protection of the systems.
 
-During my international experience as part of the Erasmus program, I had the opportunity to work at the IT Center of the University of Cologne (ITCC). There I had the opportunity to be part of the OpenCast project by developing an external tool to facilitate the work of other developers.
+I have a **Cambridge C1 certificate in English**, which allowed me to work with international teams during my Erasmus experience at the **IT centre of the University of Cologne**.
 
-I have a C1 level of English certified by Cambridge, which allows me to be fluent in all kinds of fields and to collaborate efficiently in international teams.
+During my **international experience** in Cologne I had the opportunity to collaborate in the development of OpenCast, where I developed an external video processing web application to facilitate the work of the rest of the developers.
 
-I am motivated to be constantly learning in order to bring value and creativity to each project. I enjoy working in dynamic teams and facing technological challenges that foster innovation.
+I am enthusiastic about keeping up to date with the latest technologies and enjoy working in teams that aim to overcome challenges and encourage innovation.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at victor.jimenezcorada@gmail.com
