@@ -16,7 +16,7 @@ I am enthusiastic about keeping up to date with the latest technologies and enjo
 * 📩  You can contact me at victor.jimenezcorada@gmail.com
 
 <p align="left">
-  <a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v%C3%ADctor-jim%C3%A9nez-corada-4b081a23b/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-jim%C3%A9nez-corada-4b081a23b/" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=#" alt="LinkedIn"/></a>
 </p>
 
 ### Skills
